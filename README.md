@@ -1,4 +1,4 @@
-Image Watermarking App
+# Image Watermarking App
 
 A desktop application built with Python and Tkinter that allows users to apply custom watermarks (text) on images. It supports diagonal and horizontal watermarks, and includes live preview while adjusting font, size, color, and direction.
 
